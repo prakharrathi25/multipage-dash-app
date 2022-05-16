@@ -1,0 +1,2 @@
+dash==2.4.1
+dash_bootstrap_components==1.1.0
